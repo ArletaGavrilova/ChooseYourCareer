@@ -7,4 +7,8 @@
 
 **In this bot you have to answer questions and choose answer to have the result of my bot's recommendation.**
 🙃
- **I plan to give you result by points of the answers.**
+&nbsp;
+
+&nbsp;
+
+ **This bot is currently on Russian language.**
